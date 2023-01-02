@@ -47,7 +47,8 @@ SRC 	=	my_compute_square_root.c \
             my_compute_power_rec.c \
             my_put_long.c	\
             my_split.c	\
-            my_array_size.c
+            my_array_size.c	\
+            my_itoa.c
 
 OBJ		=	$(SRC:.c=.o)
 

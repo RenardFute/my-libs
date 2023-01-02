@@ -73,3 +73,4 @@ int get_word_count_c(char const *str, char separator);
 int is_word_c(char *str, char separator);
 int my_array_size(void **array);
 void my_putchar_guard(char c);
+char *my_itoa(int nb);
